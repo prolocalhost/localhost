@@ -1,20 +1,20 @@
-<a href="https://komarev.com/ghpvc/?username=localhost-dev">
-  <img align="right" src="https://komarev.com/ghpvc/?username=localhost-dev&label=Goście&color=8a2be2&style=for-the-badge" alt="Licznik odwiedzających" />
+<a href="https://komarev.com/ghpvc/?username=prolocalhost">
+  <img align="right" src="https://komarev.com/ghpvc/?username=prolocalhost&label=Goście&color=8a2be2&style=for-the-badge" alt="Licznik odwiedzających" />
 </a>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=600&lines=Localhost;Lead+Software+Engineer;System+Architect;Polyglot+Developer;Cloud+%26+DevOps+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=600&lines=Localhost;Founder+%40+Proshield;System+Architect;Polyglot+Developer" alt="Typing SVG" />
 </div>
 
 <h3 align="center">
   <samp>&gt; Inicjalizacja... Witaj! Jestem Michał, w sieci znany jako
-    <b><a target="_blank" href="https://github.com/localhost-dev">Localhost</a> 👨‍💻</b>
+    <b><a target="_blank" href="https://github.com/prolocalhost">Localhost</a> 👨‍💻</b>
   </samp>
 </h3>
 
 <p align="center"> 
   <samp>
-    <a href="https://discord.gg/rootspace">🌌 Założyciel RootSpace</a>
+    <a href="https://discord.gg/QeDcCFXDVa">🛡️ Założyciel Proshield</a>
     <br>
     「 Przekuwam kofeinę w skalowalne systemy i czysty kod 」
     <br>
@@ -23,13 +23,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/localhost-dev" target="_blank">
+  <a href="https://github.com/prolocalhost" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/michal-localhost" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://discord.gg/rootspace" target="_blank">
+  <a href="https://discord.gg/QeDcCFXDVa" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
@@ -38,11 +35,9 @@
 
 ## 💫 O mnie (Log systemowy)
 
-<img align="right" width="220" src="https://media.giphy.com/media/qgQUggMaIxdP9KtvEw/giphy.gif" alt="Coding GIF" />
-
-- 🚀 **Doświadczenie:** Koduję od ponad 10 lat. Zaczynałem od prostych skryptów w Pythonie, dziś projektuję potężne architektury oparte na mikroserwisach.
-- 💡 **Rola:** Założyciel i Lead Dev w **RootSpace** – grupie zrzeszającej inżynierów i pasjonatów szeroko pojętego IT oraz cyberbezpieczeństwa.
-- 🧠 **Ciągły rozwój:** Jestem poliglotą programistycznym. Wierzę, że język to tylko narzędzie, a kluczem jest odpowiedni wzorzec i architektura. Obecnie zgłębiam tajniki Rusta i low-level computingu.
+- 🚀 **Doświadczenie:** Koduję od ponad 5 lat. Specjalizuję się w tworzeniu bezpiecznych systemów, architektur rozproszonych i zaawansowanych aplikacji.
+- 💡 **Rola:** Pracuję i pełnię rolę założyciela w **Proshield** – gdzie tworzymy innowacyjne rozwiązania i dbamy o najwyższe standardy kodu.
+- 🧠 **Ciągły rozwój:** Jestem poliglotą programistycznym. Wierzę, że język to tylko narzędzie, a kluczem jest odpowiedni wzorzec i wydajna architektura. Obecnie zgłębiam tajniki Rusta i low-level computingu.
 - 🛠️ **Open Source:** Aktywnie wspieram i tworzę projekty open-source. Uwielbiam rozwiązywać problemy, nad którymi inni załamują ręce.
 - 🎯 **Moje motto:** *"Nigdy nie ufaj danym wejściowym od użytkownika i zawsze automatyzuj to, co robisz więcej niż dwa razy."*
 
@@ -91,7 +86,7 @@
 
 ## 📈 Aktywność Systemowa
 
-![Localhost](https://github-readme-activity-graph.vercel.app/graph?username=localhost-dev&custom_title=Logi%20Aktywności%20Localhosta&bg_color=0d1117&color=8A2BE2&line=8A2BE2&point=FFFFFF&area_color=8A2BE2&title_color=FFFFFF&area=true&hide_border=true)
+![Localhost](https://github-readme-activity-graph.vercel.app/graph?username=prolocalhost&custom_title=Logi%20Aktywności%20Localhosta&bg_color=0d1117&color=8A2BE2&line=8A2BE2&point=FFFFFF&area_color=8A2BE2&title_color=FFFFFF&area=true&hide_border=true)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b0082,100:8a2be2&height=120&section=footer" width="100%" alt="Wave Footer" />
