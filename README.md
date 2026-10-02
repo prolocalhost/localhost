@@ -1,131 +1,98 @@
-<a href="https://komarev.com/ghpvc/?username=localhost"> <img align="right" src="https://komarev.com/ghpvc/?username=localhost&label=Odwiedzający&color=7c3aed&style=flat-square" alt="Licznik odwiedzających" /> </a>
+<a href="https://komarev.com/ghpvc/?username=localhost-dev">
+  <img align="right" src="https://komarev.com/ghpvc/?username=localhost-dev&label=Goście&color=8a2be2&style=for-the-badge" alt="Licznik odwiedzających" />
+</a>
 
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=23&duration=3500&pause=900&color=8B5CF6&center=true&vCenter=true&random=false&width=650&lines=localhost;Micha%C5%82+%7C+Software+Developer;Minecraft+%26+Backend+Engineer;Building+systems+that+actually+scale;Java+%7C+Kotlin+%7C+Go+%7C+Rust+%7C+C%2B%2B" alt="Typing SVG" /> <h2> <samp>👋 Siema, jestem Michał — w internecie znany jako <b>Localhost</b></samp> </h2> <p> <samp> Koduję od momentu, kiedy większość ludzi nadal zastanawia się, <br> dlaczego po restarcie serwera wszystko nagle zaczyna działać. </samp> </p> <br> <a href="https://github.com/localhost"> <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <a href="#"> <img src="https://img.shields.io/badge/Discord-7C3AED?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/> </a> </div>
-🧠 Kim jestem?
-<img align="right" width="230" src="https://i.imgur.com/2JpH6fZ.png" alt="Coding"/>
-
-Nie jestem typem developera, który kończy pracę na Hello World.
-
-Od kilku lat siedzę w programowaniu, zaczynając od prostych pluginów Minecraft, przez większe systemy serwerowe, aż po backendy, mikroserwisy i aplikacje działające na wielu instancjach jednocześnie.
-
-Aktualnie najbardziej interesuje mnie tworzenie wydajnych, skalowalnych i dobrze zaprojektowanych systemów, które nie rozsypują się przy pierwszych kilku tysiącach użytkowników.
-
-🧑‍💻 Programuję od ponad 8 lat
-
-🎮 Zaczynałem od pluginów Minecraft i Spigota
-
-⚙️ Tworzę backendy, API, mikroserwisy oraz systemy realtime
-
-🧠 Interesuję się architekturą oprogramowania i optymalizacją
-
-🌐 Pracuję zarówno nad aplikacjami webowymi, jak i systemami backendowymi
-
-🚀 Lubię budować rzeczy od zera zamiast kleić gotowe rozwiązania
-
-☕ Większość problemów rozwiązuję po prostu pisząc więcej kodu
-
-"If it works, optimize it. If it's optimized, automate it."
-
-⚡ Stack
 <div align="center">
-💻 Języki programowania
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=600&lines=Localhost;Lead+Software+Engineer;System+Architect;Polyglot+Developer;Cloud+%26+DevOps+Enthusiast" alt="Typing SVG" />
+</div>
 
+<h3 align="center">
+  <samp>&gt; Inicjalizacja... Witaj! Jestem Michał, w sieci znany jako
+    <b><a target="_blank" href="https://github.com/localhost-dev">Localhost</a> 👨‍💻</b>
+  </samp>
+</h3>
 
+<p align="center"> 
+  <samp>
+    <a href="https://discord.gg/rootspace">🌌 Założyciel RootSpace</a>
+    <br>
+    「 Przekuwam kofeinę w skalowalne systemy i czysty kod 」
+    <br>
+    <br>
+  </samp>
+</p>
 
+<p align="center">
+  <a href="https://github.com/localhost-dev" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/michal-localhost" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://discord.gg/rootspace" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</p>
 
+---
 
+## 💫 O mnie (Log systemowy)
 
+<img align="right" width="220" src="https://media.giphy.com/media/qgQUggMaIxdP9KtvEw/giphy.gif" alt="Coding GIF" />
 
+- 🚀 **Doświadczenie:** Koduję od ponad 10 lat. Zaczynałem od prostych skryptów w Pythonie, dziś projektuję potężne architektury oparte na mikroserwisach.
+- 💡 **Rola:** Założyciel i Lead Dev w **RootSpace** – grupie zrzeszającej inżynierów i pasjonatów szeroko pojętego IT oraz cyberbezpieczeństwa.
+- 🧠 **Ciągły rozwój:** Jestem poliglotą programistycznym. Wierzę, że język to tylko narzędzie, a kluczem jest odpowiedni wzorzec i architektura. Obecnie zgłębiam tajniki Rusta i low-level computingu.
+- 🛠️ **Open Source:** Aktywnie wspieram i tworzę projekty open-source. Uwielbiam rozwiązywać problemy, nad którymi inni załamują ręce.
+- 🎯 **Moje motto:** *"Nigdy nie ufaj danym wejściowym od użytkownika i zawsze automatyzuj to, co robisz więcej niż dwa razy."*
 
+## 🛠️ Arsenał Technologiczny (Tech Stack)
 
+<div align="center">
 
+### Języki programowania
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+### Web & Frameworki
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
+### Bazy danych
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
-
-
-
-🎮 Minecraft & Game Development
-
-
-
-
-
-
-
-🌐 Backend & Web
-
-
-
-
-
-
-
-
-🗄️ Bazy danych
-
-
-
-
-
-
-
-☁️ DevOps & Infrastructure
-
-
-
-
-
-
-
-
-📨 Systemy rozproszone
-
-
-
-
-
+### DevOps, Cloud & Mikroserwisy
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 </div>
-🔥 Aktualnie dłubię przy
-┌─────────────────────────────────────────────────────┐
-│                  localhost.exe                      │
-├─────────────────────────────────────────────────────┤
-│                                                     │
-│  [✓] Minecraft infrastructure                       │
-│  [✓] Distributed backend systems                   │
-│  [✓] High-performance APIs                         │
-│  [✓] Custom server technologies                    │
-│  [>] Something secret...                            │
-│                                                     │
-└─────────────────────────────────────────────────────┘
 
+---
 
-Moim celem nie jest używanie największej liczby technologii.
+## 📈 Aktywność Systemowa
 
-Chociaż i tak używam ich zdecydowanie za dużo.
-
-📈 GitHub
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=localhost&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=localhost&theme=tokyonight&hide_border=true" /> </div> <br>
-
-🧩 Trochę randomowych faktów
-
-🖥️ localhost działa nawet wtedy, kiedy internet nie działa.
-
-☕ Kawa jest opcjonalna. Debugowanie już nie.
-
-🐛 Nie usuwam bugów — przekonuję je, że nie powinny istnieć.
-
-⚡ Lubię rozwiązania, które są szybkie, proste i nie wymagają 47 bibliotek.
-
-🧠 Potrafię przesiąść się z Javy do Rusta, a potem wrócić do C++ tylko po to, żeby napisać coś, czego nikt nie potrzebował.
-
-🎮 Minecraft był początkiem. Reszta to efekt uboczny.
+![Localhost](https://github-readme-activity-graph.vercel.app/graph?username=localhost-dev&custom_title=Logi%20Aktywności%20Localhosta&bg_color=0d1117&color=8A2BE2&line=8A2BE2&point=FFFFFF&area_color=8A2BE2&title_color=FFFFFF&area=true&hide_border=true)
 
 <div align="center">
-💜 Dzięki za odwiedzenie mojego profilu!
-<samp> <b>Code hard. Sleep later. 🚀</b> </samp>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:6366F1,100:06B6D4&height=130&section=footer" width="100%" /> </div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b0082,100:8a2be2&height=120&section=footer" width="100%" alt="Wave Footer" />
+</div>
